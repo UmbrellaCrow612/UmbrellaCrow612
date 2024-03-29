@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=umbrellacrow612" alt="umbrellacrow612" /></a> </p>
 
-- 🔭 I’m currently working on [Code handBook](https://code-handbook.vercel.app/)
+- 🔭 I’m currently working on Ship Mate University Large scale project
 
-- 🌱 I’m currently learning **Algorithms and Data Structures**
+- 🌱 I’m currently learning **.NET**
 
-- 👯 I’m looking to collaborate on **REACT And NEXT JS**
+- 👯 I’m looking to collaborate on **c# and .NET**
 
-- 💬 Ask me about **REACT, NEXT JS AND TS**
+- 💬 Ask me about **REACT, NEXT JS AND TS, c#**
 
 - 📫 How to reach me **umbrellaman612@gmail.com**
 
