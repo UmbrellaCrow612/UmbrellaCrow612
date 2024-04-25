@@ -17,7 +17,7 @@
 
 - ⚡ Fun fact **I am a stoic and a avid philosopher.**
 
-- [Linkedin](www.linkedin.com/in/yousaf-wazir-3b1440267)
+- Linkedin - www.linkedin.com/in/yousaf-wazir-3b1440267
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
