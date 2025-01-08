@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=umbrellacrow612" alt="umbrellacrow612" /></a> </p>
 
-- 🔭 I’m currently working on Ship Mate University Large scale project
+- 🔭 I’m currently working on my police case system
 
 - 🌱 I’m currently learning **.NET**
 
